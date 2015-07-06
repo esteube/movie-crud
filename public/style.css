@@ -1,0 +1,89 @@
+.tyler {
+  width: 100%;
+  height: 100%;
+}
+.tyler2 {
+  width: 100%;
+  height: 100%;
+  opacity: .7;
+}
+
+h1 {
+  color: black;
+  text-decoration: none;
+  position: relative;
+  top: -600px;
+  color: black;
+  margin-left: 170px;
+
+}
+
+ input {
+  border-radius: 5px;
+  color: black;
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #F0F4FF;
+
+}
+
+button {
+  border-radius: 5px;
+  color: black;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+label {
+  display: block;
+}
+table {
+  border-collapse: collapse;
+  position: relative;
+  top: -730px;
+  margin-left: 30px;
+}
+
+.table-header {
+  padding: 10px;
+
+}
+
+.tables td {
+  padding: 20px;
+}
+p {
+  font-size: 20px;
+  background-color: white;
+  opacity: .5;
+  position: relative;
+  top: -600px;
+  width: 25%;
+  margin-left: 30px;
+  padding: 10px;
+}
+
+.new-movie {
+  position: relative;
+  top: -430px;
+  margin-left: 45%;
+  font-weight: bold;
+  font-size: 1em;
+
+}
+.edit-movie {
+position: relative;
+top: -900px;
+margin-left: 10%;
+font-weight: bold;
+font-size: 1em;
+
+}
+
+
+.add-button {
+  position: relative;
+  top: -120px;
+  margin-left: 30px;
+  padding: 10px;
+}
